@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NITESH-JAT
-- 👀 I’m interested in frontend web developing 
+- 👀 I’m interested in frontend web development 
 - 🌱 I’m currently learning javscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
