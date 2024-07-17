@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NITESH-JAT
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in web development
 
-- I have completed bunch of web Development topics
+- 💼 I have completed bunch of web Development topics
 - 🌱 I’m currently learning javscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 if you want to reach me you can message my on linkedIn Nitesh Jat 
