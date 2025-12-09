@@ -97,11 +97,11 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffd966?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -111,10 +111,6 @@
   
   ## 🤝 Let's Collaborate
   
-  > 💬 DM me your project idea — include **scope, timeline, budget** — and I’ll reply with a clean execution plan tailored to your needs.
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=nitesh-jat&color=blueviolet" alt="Profile views"/>
-  
+  > 💬 DM me your project idea — Let's get on a call make it real.
+    
 </div>
