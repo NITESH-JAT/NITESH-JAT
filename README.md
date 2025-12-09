@@ -1,107 +1,101 @@
-<h1 align="center">
-  Hi 👋, I'm Nitesh Jat
-</h1>
+# Hi, I'm Nitesh 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitesh-jat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Nitesh_Jat09" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-@Nitesh_Jat09-black?logo=twitter&logoColor=white"></a>
-  <a href="mailto:nitesh.jat.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nitesh.jat.work@gmail.com-orange?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Nitesh-Jat" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Nitesh--Jat-181717?logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <strong>Full-Stack Developer</strong> • React / Next.js • Node.js • PostgreSQL / MongoDB • Open to freelance & roles
-</p>
+**Full-Stack Developer** — React / Next.js • Node.js • PostgreSQL / MongoDB  
+📍 Vadodara • ✉️ nitesh.jat.work@gmail.com • [LinkedIn](https://www.linkedin.com/in/nitesh-jat/) • [X](https://x.com/Nitesh_Jat09)
 
 ---
 
-## 🔭 About Me
-- I'm a practical full-stack developer who turns ideas into polished, production-ready web apps.
-- I build fast, responsive frontends (React/Next.js + Tailwind) and reliable backends (Node.js/Express, PostgreSQL/MongoDB).
-- I enjoy building end-to-end features, improving UX, and shipping maintainable code.  
-- Available for: **Freelance projects • Internships • Full-time roles**
+> 🔥 I build production-ready web apps with clean UI, solid backends and fast delivery.  
+> Available for **freelance**, **internships**, and **full-time roles**.
 
 ---
 
-## 🧰 Tech Stack
+# 💡 Quick Snapshot
+- **Primary focus:** Frontend (React/Next.js) + Backend (Node.js/Express)  
+- **Strong at:** Component-driven UI, reusable modules, clean APIs, automated deployments  
+- **Now adding:** **Prompt Engineering & AI tooling** for faster development (LLMs, prompt design, automation)
 
-**Languages:** JavaScript • TypeScript • Python • Java  
-**Frontend:** React • Next.js • Tailwind CSS • HTML • CSS  
-**Backend:** Node.js • Express • REST APIs • Socket.io • JWT  
+---
+
+# 🧰 Tech & Tools (Highlighted)
+**Languages:** JavaScript • TypeScript • Python • Java
+**Frontend:** React • Next.js • Tailwind CSS  
+**Backend:** Node.js • Express • Socket.io • JWT • REST APIs  
 **Databases:** PostgreSQL • MongoDB • MySQL  
-**Dev / Deploy:** Git • GitHub • Vercel • Render • Netlify • Docker basics  
-**Tools:** Figma • Postman • Prisma • Prisma Migrations
+**AI / Prompting:** Prompt Engineering • AI-assisted coding & automation  
+**Dev & Deploy:** Git • Vercel • Render • Netlify
+**Design:** Figma
 
 ---
 
-## ✨ Highlights / Selected Projects
-- **Munch Mate** — Mobile-first restaurant ordering + admin dashboard (Next.js, Socket.io, UPI integration). Realtime orders, JWT auth, RBAC.
-- **Content Flow** — AI-powered content planner (Gemini/LLM integration) — automated multi-day content generation.
-- **Face Attendance Web** — Web-based attendance using face scanning demo (client-side prototype).
+# 🚀 Featured Projects (Modern Project Cards)
 
-> More projects & demos are on my GitHub — check pinned repos below.
+<a href="https://github.com/Nitesh-Jat/MuchMate">
+  <div align="left">
+    <img src="https://img.shields.io/badge/MuchMate-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
+  </div>
+</a>
+
+**🍽️ Munch Mate — Restaurant Ordering Platform**  
+Built with **Next.js**, **Express**, **PostgreSQL**, **Tailwind**, **Socket.io**  
+✔ Mobile-first ordering  
+✔ Real-time updates  
+✔ UPI verification  
+✔ Admin dashboards + RBAC  
+✔ Production-grade folder structure  
 
 ---
 
-## 📂 Pinned Projects
-<!-- Replace project links with the ones you want pinned if needed -->
-- [MuchMate](https://github.com/Nitesh-Jat/MuchMate) — Scan, Order, Enjoy!  
-- [face-attendance-web](https://github.com/Nitesh-Jat/face-attendance-web) — Browser-based attendance scanning  
-- [cupa-coffee](https://github.com/Nitesh-Jat/cupa-coffee) — Simple landing & UI case study
+<a href="https://github.com/Nitesh-Jat/content-flow">
+  <div align="left">
+    <img src="https://img.shields.io/badge/ContentFlow-%235555FF.svg?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+  </div>
+</a>
+
+**🧠 Content Flow — AI-Powered Content Planner**  
+Built with **Next.js**, **Gemini AI**, **MongoDB**, **Tailwind**  
+✔ Auto-generates a 7-day content plan  
+✔ Optimized prompts (prompt engineering)  
+✔ Clean UI with modular components  
+✔ Reduces human planning effort by ~70%  
 
 ---
 
-## 🧩 Skills (quick badges)
+<a href="https://github.com/Nitesh-Jat/face-attendance-web">
+  <div align="left">
+    <img src="https://img.shields.io/badge/FaceAttendanceWeb-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28"/>
+  </div>
+</a>
+
+**🎭 Face Attendance Web — Browser-Based Face Scan Prototype**  
+Pure **HTML + JS** demo (client-side)  
+✔ Real-time face detection workflow  
+✔ No backend required  
+✔ Early prototype for a full attendance system  
+
+---
+
+# 🏷️ Skills (Quick Badges)
+
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-17.0-blue?logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-13-black?logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-Utility-first-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-16-green?logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-Server-lightgrey?logo=express&logoColor=black" />
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-Data-blue?logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Docs-47A248?logo=mongodb&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-React-blue?logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-Next-black?logo=next.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Server-green?logo=node.js&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />
+  <img alt="AI" src="https://img.shields.io/badge/AI-Prompt%20Engineering-7C3AED?logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📣 Hiring & Collaboration
+**Open to:** Freelance projects • Contract sprints • Internships • Full-time roles  
 
-<p align="center">
-  <img alt="Nitesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Jat&show_icons=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Jat&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 Activity & Streaks
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-Jat&theme=dark" />
-</p>
-
----
-
-## 📫 Contact / Hire me
+**Best ways to reach me:**  
 - LinkedIn: https://www.linkedin.com/in/nitesh-jat/  
-- X / Twitter: https://x.com/Nitesh_Jat09  
+- X: https://x.com/Nitesh_Jat09  
 - Email: nitesh.jat.work@gmail.com  
-- I'm open for freelance projects, internships and full-time opportunities — feel free to message me!
-
----
-
-## 💬 How I work
-- Component-driven UI, small reusable modules, clean APIs and CI-friendly deployments.  
-- Prefer well-documented code, automated deployments, and collaborative workflows (PRs & reviews).
-
----
 
 <p align="center">
-  <em>If you like what you see, star a repo, or drop me a message — let's build something great 🚀</em>
+  <strong>Like what you see?</strong> Star a repo ⭐ or message me — let's build something great 🚀
 </p>
-
-<!-- ====== End of README ====== -->
-
-
-<!---
-NITESH-JAT/NITESH-JAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
